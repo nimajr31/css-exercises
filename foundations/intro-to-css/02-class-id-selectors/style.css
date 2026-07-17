@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.odd {
+    color: black;
+    background-color: lightcoral;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.adjust-font-size {
+    font-size: 24px;
+}
+#Number2 {
+    color: blue;
+    font-size: 36px;
+}
+#Number4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
